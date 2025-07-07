@@ -1,6 +1,6 @@
 # 🏢 Mini Company Network Setup - Cisco Packet Tracer
 
-![Network Setup Screenshot](./Screenshot (7).png)
+![Network Setup Screenshot](./Screenshot.png)
 
 ## 📘 Project Overview
 
